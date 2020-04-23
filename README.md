@@ -1,4 +1,4 @@
-# SPEED-SIEM-Use-Case-Framework
+# The SPEED Use Case Framework
 Repository for SPEED SIEM Use Case Framework 
 
 ## What is a Use Case Framework?
